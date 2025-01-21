@@ -21,10 +21,10 @@ fulfillments:
         - code: APPLICATION_SUBMITTED
           description: Name of the fulfillment status	
           reference: <PR/Issue/Discussion Links md format text>
-        - code: APPLICATION-REJECTED
+        - code: APPLICATION_REJECTED
           description: Name of the fulfillment status	
           reference: <PR/Issue/Discussion Links md format text>
-        - code: ASSESSMENT-IN-PROGRESS
+        - code: ASSESSMENT_IN_PROGRESS
           description: Name of the fulfillment status	
           reference: <PR/Issue/Discussion Links md format text>
         - code: OFFER_EXTENDED
@@ -33,7 +33,7 @@ fulfillments:
         - code: OFFER_ACCEPTED
           description: Name of the fulfillment status	
           reference: <PR/Issue/Discussion Links md format text>
-        - code: OFFER-REJECTED
+        - code: OFFER_REJECTED
           description: Name of the fulfillment status	
           reference: <PR/Issue/Discussion Links md format text>
       

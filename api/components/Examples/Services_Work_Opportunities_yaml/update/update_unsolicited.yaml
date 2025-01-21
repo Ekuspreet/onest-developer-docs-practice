@@ -22,7 +22,8 @@ value:
       id: "1677140405881"
       fulfillments:
         - id: F3
-          type: OFFER_ACCEPTED
+          type: OFFER_EXTENDED
           contact:
             phone: "+91-1234567890"
             email: abc@abc.bc
+    tags:

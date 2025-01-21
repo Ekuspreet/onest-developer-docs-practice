@@ -80,7 +80,7 @@ confirm:
     order:
       status:
         - code: Created
-          description: fulfillments.state will be one of these - ["APPLICATION-STARTED"]
+          description: fulfillments.state will be one of these - ["APPLICATION_STARTED"]
           reference: <PR/Issue/Discussion Links md format text>
       fulfillments:
         type:
@@ -104,7 +104,7 @@ on_confirm:
     order:
       status:
         - code: Created
-          description: fulfillments.state will be one of these - ["APPLICATION-STARTED"]
+          description: fulfillments.state will be one of these - ["APPLICATION_STARTED"]
           reference: <PR/Issue/Discussion Links md format text>
       fulfillments:
         type:
