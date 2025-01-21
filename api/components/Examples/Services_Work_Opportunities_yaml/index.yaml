@@ -30,9 +30,6 @@ update:
   examples:
     update:
       - $ref: ./update/update.yaml
-    update - unsolicited:
-      - $ref: ./update/update_unsolicited.yaml
-
 status:
   examples:
     status:
@@ -75,6 +72,8 @@ on_update:
   examples:
     on_update:
       $ref: ./on_update/on_update.yaml
+    on_update - unsolicited:
+      $ref: ./on_update/on_update_unsolicited.yaml
 on_status:
   examples:
     on_status - APPLICATION_IN_PROGRESS:

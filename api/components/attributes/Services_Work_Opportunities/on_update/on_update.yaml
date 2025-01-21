@@ -197,3 +197,12 @@ message:
         required: mandatory
         usage: "BAP"
         reference: null
+    documents:
+      label:
+        description: "Name of the document."
+        required: "Optional"
+        usage: "Offer_Letter"
+      url:
+        description: "URL of the document."
+        required: "Optional"  
+        usage: "file://offerletter.pdf"
