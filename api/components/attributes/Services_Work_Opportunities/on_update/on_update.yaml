@@ -201,7 +201,7 @@ message:
       label:
         description: "Name of the document."
         required: "Optional"
-        usage: "Offer_Letter"
+        usage: "offer_letter"
       url:
         description: "URL of the document."
         required: "Optional"  

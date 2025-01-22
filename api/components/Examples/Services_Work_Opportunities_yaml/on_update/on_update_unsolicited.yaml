@@ -201,5 +201,5 @@ value:
                     code: "BRANCH_NAME"
                   value: "xxxx"
       documents:
-        - label: "Offer_Letter"
+        - label: "offer_letter"
           url: "file://offerletter.pdf"
