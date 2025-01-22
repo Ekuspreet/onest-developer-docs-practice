@@ -1687,15 +1687,15 @@ components:
         type:
           type: string
           enum:
-            - PRE_ORDER
-            - PRE_FULFILLMENT
-            - ON_FULFILLMENT
-            - POST_FULFILLMENT
+            - PRE-ORDER
+            - PRE-FULFILLMENT
+            - ON-FULFILLMENT
+            - POST-FULFILLMENT
         status:
           type: string
           enum:
             - PAID
-            - NOT_PAID
+            - NOT-PAID
         time:
           $ref: '#/components/schemas/Time'
         tags:

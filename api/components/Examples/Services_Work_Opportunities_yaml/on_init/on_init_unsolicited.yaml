@@ -72,6 +72,9 @@ value:
       fulfillments:
         - id: "F3"
           type: "lead & recruitment"
+          state:
+            descriptor:
+              code: APPLICATION_IN_PROGRESS
           customer:
             person:
               name: Sanjay
